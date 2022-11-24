@@ -1,0 +1,34 @@
+*{
+    text-align: center;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: antiquewhite;
+    
+}
+body{
+    background-color: rgb(23, 23, 23);
+}
+
+.button{
+    margin: 20px;
+    background-color :brown
+    
+}
+.header{
+    color: antiquewhite;
+}
+
+
+@media only screen and (min-width: 600px)
+{
+    .output{
+        size: 100px;
+        border: 20px;
+        border: 1px solid white;
+        border-radius: 8px;
+        margin:100px;
+        overflow-y:auto;
+        padding: 100px;
+        text-align: left;
+    }
+}
