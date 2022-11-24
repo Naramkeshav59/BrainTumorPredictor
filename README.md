@@ -11,6 +11,10 @@ navigate to BrainTumorPredictor
 
 ```cd < path to repo folder >/BrainTumorPredictor ```
 
+install requirements:
+
+```pip install -r requirements.txt ```
+
 run application:
 
 ``` python run main.py```
